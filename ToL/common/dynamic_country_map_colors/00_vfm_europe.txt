@@ -1,0 +1,33 @@
+﻿estonia_governorate = {
+	color = "russian_puppet_estonia"
+
+	possible = {
+		exists = c:EST
+		THIS = c:EST
+		has_diplomatic_pact = {
+			who = c:RUS
+			type = puppet
+		}
+	}
+
+}
+
+yellow_prussia_rule = {
+	color = "yellow"
+
+	possible = {
+		exists = c:PRU
+		THIS = c:PRU
+		OR = {
+			has_game_rule = yes_yellow_prussia
+		}
+		
+	}
+}
+
+purple_naples = {
+	color = "naples_purple"
+	possible = {
+		always = no
+	}
+}
