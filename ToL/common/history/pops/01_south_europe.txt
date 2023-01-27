@@ -694,7 +694,7 @@
 		}
 	}
 	s:STATE_BOSNIA = {
-		region_state:TUR = {
+		region_state:HUN = {
 			create_pop = {
 				culture = bosniak
 				size = 304908
@@ -755,7 +755,7 @@
 		}
 	}
 	s:STATE_SLOVENIA = {
-		region_state:AUS = {
+		region_state:SLO = {
 			create_pop = {
 				culture = slovene
 				size = 464400
@@ -783,7 +783,7 @@
 		}
 	}
 	s:STATE_CROATIA = {
-		region_state:AUS = {
+		region_state:HUN = {
 			create_pop = {
 				culture = croat
 				size = 563592
@@ -808,7 +808,7 @@
 		}
 	}
 	s:STATE_SLAVONIA = {
-		region_state:AUS = {
+		region_state:HUN = {
 			create_pop = {
 				culture = croat
 				size = 282048

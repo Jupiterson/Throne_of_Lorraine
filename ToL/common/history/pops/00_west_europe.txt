@@ -768,8 +768,6 @@
 				religion = catholic
 				size = 241950
 			}
-		}
-		region_state:BEL = {
 			create_pop = {
 				culture = dutch
 				religion = catholic
@@ -790,7 +788,7 @@
 		}
 	}
 	s:STATE_WALLONIA = {
-		region_state:BEL = {
+		region_state:FRA = {
 			create_pop = {
 				culture = wallonian
 				size = 1462000
@@ -810,7 +808,7 @@
 		}
 	}
 	s:STATE_LUXEMBOURG = {
-		region_state:BEL = {
+		region_state:LUX = {
 			create_pop = {
 				culture = wallonian
 				size = 103992
@@ -823,7 +821,7 @@
 		}
 	}
 	s:STATE_FLANDERS = {
-		region_state:BEL = {
+		region_state:NET = {
 			create_pop = {
 				culture = flemish
 				size = 2317000
@@ -839,7 +837,7 @@
 		}
 	}
 	s:STATE_AUSTRIA = {
-		region_state:AUS = {
+		region_state:BAV = {
 			create_pop = {
 				culture = south_german
 				size = 1964404
@@ -865,7 +863,7 @@
 		}
 	}
 	s:STATE_BOHEMIA = {
-		region_state:AUS = {
+		region_state:BOH = {
 			create_pop = {
 				culture = south_german
 				size = 1499608
@@ -882,7 +880,7 @@
 		}
 	}
 	s:STATE_MORAVIA = {
-		region_state:AUS = {
+		region_state:BOH = {
 			create_pop = {
 				culture = south_german
 				size = 480408
@@ -903,7 +901,7 @@
 		}
 	}
 	s:STATE_STYRIA = {
-		region_state:AUS = {
+		region_state:BAV = {
 			create_pop = {
 				culture = south_german
 				size = 664796
@@ -915,7 +913,7 @@
 		}
 	}
 	s:STATE_TYROL = {
-		region_state:AUS = {
+		region_state:BAV = {
 			create_pop = {
 				culture = south_german
 				size = 559304
@@ -929,7 +927,7 @@
 		}
 	}
 	s:STATE_SOUTH_TYROL = {
-		region_state:AUS = {
+		region_state:BAV = {
 			create_pop = {
 				culture = south_german
 				size = 174100
